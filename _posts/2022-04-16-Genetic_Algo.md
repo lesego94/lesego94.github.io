@@ -22,6 +22,7 @@ The **return** of the *i* -th asset between period *t* and period *t-1* is defin
 $$
 p_{i}(t) = \frac{\text{Price}_{i}(t)-\text{Price}_{i}(t-1)}{\text{Price}_{i}(t-1)}
 $$
+
 With this the weighted portfolio return at a time *t* is then:
 
 $$
@@ -42,7 +43,13 @@ $$
 \text{Portfolio Sharpe} = \frac{E(P)}{\sqrt{Var(P)}}
 $$
 
-Where E(P) is the **expected return** of the portfolio, _Var(p) is the **variance**. 
+Where E(P) is the **expected return** of the portfolio, Var(p) is the **variance**. 
 The overall aim is to determine a portfolio whose returns are stable around the mean. Thus it is not the highest return that is sought, but the **highest stability of portfolio**.
 
 ### Penalty Function method
+'/img/posts/explicit_my3.gif'
+
+
+
+
+As you can see, the portfolio return (black thick line) is the **most stable** curve, although it’s not the best performing one (Amazon performs better). It’s nice to see that our portfolio outperforms S&P 500.
