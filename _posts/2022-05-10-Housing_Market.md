@@ -6,3 +6,12 @@ date: 2020-01-26 23:45:13 -0400
 background: '/img/posts/20.jpeg'
 usemathjax: true
 ---
+
+## Bank Direct Marketing Campaign
+
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. 
+
+## Methodology
+
+
+
