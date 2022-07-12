@@ -47,9 +47,25 @@ Where E(P) is the **expected return** of the portfolio, Var(p) is the **va
 The overall aim is to determine a portfolio whose returns are stable around the mean. Thus it is not the highest return that is sought, but the **highest stability of portfolio**.
 
 ### Penalty Function method
-'/img/posts/explicit_my3.gif'
+
+Using the penalty funciton method, the problem is simplifed by transforming it into an unconstrained optimizatin problem. To do this, we create a new function that penalizes all points in the function domanin that do no satisfy the constraints.
+
+### Sharpe objective function
+The final function to be minimized is then:
+
+$$
+-\text{Sharpe}({x_{i})}+ 100 \Big[ \Big( \displaystyle\sum\limits_{i=1}^{N} x_{i}-1 \Big)^{2} +\displaystyle\sum\limits_{i=1}^{N} \text{max} (0, x_{i}-1))^{2}+  \text{max} (0, -x_{i}))^{2}\Big]
+$$
+
+### R implementation.
+The R implementation can be found here.
+https://github.com/lesego94/Machine-Learning.git
+
+### Results
 
 
+![explicity_my3](/img/posts/explicit_my3.gif){: width ="400"}
 
+![output](/img/posts/output.gif){: width ="400"}
 
 As you can see, the portfolio return (black thick line) is the **most stable** curve, although it’s not the best performing one (Amazon performs better). It’s nice to see that our portfolio outperforms S&P 500.

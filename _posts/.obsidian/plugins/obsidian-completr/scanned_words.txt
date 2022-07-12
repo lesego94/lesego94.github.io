@@ -615,6 +615,7 @@ og
 obsidian
 open
 outperforms
+output
 new
 named
 numerical
@@ -1235,6 +1236,7 @@ wq
 wGKwo
 wx
 ww
+width
 It
 In
 IA
