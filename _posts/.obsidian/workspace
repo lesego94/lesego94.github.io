@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "5030885a4de3bc6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c744d57f0a98147a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-05-10-Housing_Market.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25e6d44fac5b3e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a99e423536263bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f35029d5b7fbe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a959edbe96885da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6da1526ae86b400b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1137d8f84ddf7c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "408972cd390ca2c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-05-10-Housing_Market.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c744d57f0a98147a",
+  "lastOpenFiles": [
+    "2022-05-10-Housing_Market.md",
+    "2022-04-16-Genetic_Algo.md",
+    "2021-01-03-web-scraping.md",
+    "2022-06-02-KNN-Mode_seeking.md",
+    "Pasted image 20220602205419.png.md"
+  ]
+}
