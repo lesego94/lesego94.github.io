@@ -6,11 +6,11 @@ baseurl:            ""
 url:                "https://lesego94.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    
+twitter_username:   
+github_username:    lesego94
 facebook_username:  
 instagram_username:  
-linkedin_username: https://www.linkedin.com/in/lesego-matojane-5b9ab9a4/
+linkedin_username: lesego-matojane-5b9ab9a4/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
