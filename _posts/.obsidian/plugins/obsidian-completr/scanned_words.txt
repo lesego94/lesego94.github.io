@@ -40,6 +40,7 @@ lD
 lW
 lX
 line
+lesego
 post
 posts
 processes
@@ -115,6 +116,12 @@ pk
 pe
 pF
 performs
+penalty
+problem
+penalizes
+points
+purpose
+packaged
 title
 true
 transition
@@ -185,6 +192,8 @@ tb
 tq
 tbj
 thick
+transforming
+terms
 kNN
 kD
 kL
@@ -280,6 +289,7 @@ Mf
 MP
 MVv
 My
+Machine
 Seeking
 See
 Second
@@ -329,6 +339,10 @@ STqE
 SDMHD
 SNT
 Sy
+So
+Sibanye
+Stillwater
+Sonos
 clustering
 consists
 can
@@ -391,6 +405,11 @@ cLKC
 cf
 cg
 curve
+create
+com
+constraint
+combined
+collected
 Algorithm
 An
 Analysis
@@ -450,6 +469,8 @@ Ag
 ATX
 AS
 Amazon
+Assets
+Apple
 subtitle
 seeking
 states
@@ -523,6 +544,11 @@ skCO
 sm
 sbYd
 sAN
+simplifed
+satisfy
+summation
+shape
+slowly
 Demonstration
 Direct
 DVHc
@@ -579,6 +605,7 @@ DZ
 Di
 Dv
 DB
+Data
 of
 on
 or
@@ -616,6 +643,9 @@ obsidian
 open
 outperforms
 output
+optimizatin
+obtained
+observed
 new
 named
 numerical
@@ -667,6 +697,7 @@ nPn
 nFVz
 nO
 nice
+no
 algorithm
 and
 an
@@ -815,6 +846,7 @@ de
 dK
 dv
 ds
+domanin
 background
 basic
 be
@@ -881,6 +913,7 @@ bW
 bH
 black
 better
+becomes
 img
 introduction
 into
@@ -945,6 +978,9 @@ il
 ii
 ir
 iC
+implementation
+inequality
+iteration
 jpg
 jpeg
 jQ
@@ -1027,6 +1063,7 @@ uJP
 uc
 ul
 ulWZIs
+unconstrained
 Reward
 Rewards
 Return
@@ -1072,6 +1109,8 @@ Rg
 ROZ
 RPg
 Rf
+Results
+Returns
 Process
 Probability
 Probabalistic
@@ -1188,6 +1227,7 @@ rM
 rA
 rX
 rv
+repository
 with
 we
 where
@@ -1237,6 +1277,7 @@ wGKwo
 wx
 ww
 width
+written
 It
 In
 IA
@@ -1282,6 +1323,8 @@ Io
 Iz
 IJ
 Ib
+Instituion
+Implementation
 matrix
 maximizing
 may
@@ -1345,6 +1388,8 @@ mI
 muJ
 mXGl
 mNe
+minimized
+manner
 function
 factor
 follwing
@@ -1396,6 +1441,11 @@ fIS
 fo
 fde
 file
+funciton
+final
+found
+following
+finance
 example
 environment
 earlier
@@ -1447,6 +1497,10 @@ eNBT
 eu
 ekveGvco
 explicit
+equality
+easily
+enhance
+excerpt
 values
 value
 valuable
@@ -1492,6 +1546,8 @@ vX
 vmgwz
 vfS
 vault
+via
+volatile
 The
 Transition
 This
@@ -1540,6 +1596,7 @@ TNQ
 TF
 Tv
 Tq
+Tesla
 We
 When
 Which
@@ -1642,6 +1699,8 @@ ho
 hE
 ht
 hY
+here
+https
 gamma
 get
 genetic
@@ -1685,6 +1744,9 @@ gn
 gV
 gN
 gif
+github
+git
+general
 Example
 Ex
 Exploratory
@@ -1773,6 +1835,7 @@ Fx
 FI
 FpC
 FpB
+Fields
 Using
 Unfortunately
 UZ
@@ -1912,6 +1975,8 @@ LEz
 Lw
 LgR
 Lv
+Learning
+Limited
 Class
 Campaign
 Composition
@@ -1964,6 +2029,8 @@ Cx
 CY
 CJ
 Cc
+Code
+Collect
 Hence
 Ht
 HB
@@ -2061,6 +2128,7 @@ Ou
 OT
 OHe
 Oi
+Orange
 Genetic
 Given
 GIF
@@ -2120,6 +2188,7 @@ GcWp
 Gg
 Gc
 GHe
+Gold
 Var
 VU
 Vu
@@ -2243,6 +2312,7 @@ yILc
 yLK
 yu
 you
+yahoo
 Zn
 ZU
 ZJ

@@ -50,22 +50,108 @@ The overall aim is to determine a portfolio whose returns are stable around the 
 
 Using the penalty funciton method, the problem is simplifed by transforming it into an unconstrained optimizatin problem. To do this, we create a new function that penalizes all points in the function domanin that do no satisfy the constraints.
 
+The **inequality constraints** can be written in the following manner:
+
+$$
+x_{i} \leq 1   \Rightarrow [\text{max}(0,x_{i}-1)]^2
+$$
+
+
+$$
+x_{i} \geq 0   \Rightarrow [\text{max}(0,-x_{i})]^2
+$$
+
+
+The summation constraint is an equality constraint which can easily be written as a penalty funciton.
+
+$$
+f(x) - d = 0 \Rightarrow [f(x) -d]^2
+$$
+
+So the sum **equality constraint** becomes:
+
+$$
+\displaystyle\sum\limits_{i=1}^{N}= 1 \Rightarrow \Big( \displaystyle\sum\limits_{i=1}^{N} - 1 \Big)^2
+$$
+
+
 ### Sharpe objective function
-The final function to be minimized is then:
+The terms are combined as follows:
 
 $$
 -\text{Sharpe}({x_{i})}+ 100 \Big[ \Big( \displaystyle\sum\limits_{i=1}^{N} x_{i}-1 \Big)^{2} +\displaystyle\sum\limits_{i=1}^{N} \text{max} (0, x_{i}-1))^{2}+  \text{max} (0, -x_{i}))^{2}\Big]
 $$
-
-### R implementation.
-The R implementation can be found here.
-https://github.com/lesego94/Machine-Learning.git
-
-### Results
+The penalty are multiplied by a factor of 100 to enhance the optimization process.
 
 
-![explicity_my3](/img/posts/explicit_my3.gif){: width ="400"}
+## R Code Implementation.
+The R implementation can be found in my github repository for [Portfolio Optimization with GA](https://github.com/lesego94/Machine-Learning.git).
 
-![output](/img/posts/output.gif){: width ="400"}
+#### Collect Data of Assets Returns
+For this demonstration we have collected the historical data of the following assets:
 
-As you can see, the portfolio return (black thick line) is the **most stable** curve, although it’s not the best performing one (Amazon performs better). It’s nice to see that our portfolio outperforms S&P 500.
++ Tesla
++ Amazon
++ Apple
++ Sibanye Stillwater
++ Gold Fields Limited
++ Sonos
+
+The data is obtained from [Yahoo Finance](https://finance.yahoo.com/) 
+
+### ## Optimisation via Genetic Algorithm
+
+R has a general purpose **Genetic algorithm** packaged called "GA".  the following is an excerpt of its implementation in R.
+
+```R
+
+{r}
+
+library("GA")
+ga_res = ga(
+      # Tell the genetic algorithm that the 
+      # weights are real variables
+      type="real-valued", 
+      
+      # "ga" function performs maximization, so we must
+      # multiply the objective function by -1
+      function(x){-obj(x)}, 
+      
+      # x_i >= 0
+      lower = rep(0,ncol(asset_returns)), 
+      
+      # x_i <= 1
+      upper = rep(1,ncol(asset_returns)), 
+      
+      # Maximum number of iterations 
+      maxiter = 50000, 
+      
+      # If the maximum fitness remains the same for 50
+      # consecutive transactions, stop the algorithm
+      run=50, 
+      
+      keepBest = TRUE,
+      
+      # Exploit multi-core properties of your CPU
+      parallel=TRUE,
+      
+      # We want to see the partial results of the process
+      # while it performs
+      monitor=TRUE,
+      
+      # Seed useful for replicating the results
+      seed=1
+)
+```
+
+![output](/img/posts/output.gif)
+
+
+As you can see, the portfolio return (Orange line) is the **most stable** curve, although it’s not the best performing one (Apple and Sibanye performing better). 
+
+
+![explicity_my3](/img/posts/explicit_my3.gif)
+
+It can be observed that with each iteration, the shape of the weighted portfolio slowly becomes less volatile. 
+
+
