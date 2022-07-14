@@ -144,6 +144,22 @@ ga_res = ga(
 )
 ```
 
+
+
+```javascript
+function sayHello(name) {
+  if (!name) {
+    console.log('Hello World');
+  } else {
+    console.log(`Hello ${name}`);
+  }
+}
+```
+
+
+##  Optimisation Results
+
+
 ![output](/img/posts/output.gif)
 
 

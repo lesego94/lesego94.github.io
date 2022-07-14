@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c744d57f0a98147a",
+        "id": "f4fd72c098560c57",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04-16-Genetic_Algo.md",
+            "file": "2022-06-02-KNN-Mode_seeking.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-16-Genetic_Algo.md",
+                "file": "2022-06-02-KNN-Mode_seeking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +87,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c744d57f0a98147a",
+  "active": "f4fd72c098560c57",
   "lastOpenFiles": [
-    "2022-04-16-Genetic_Algo.md",
-    "2022-05-10-Housing_Market.md",
-    "2022-06-01-Probabilistic_Matching.md",
-    "2021-01-03-web-scraping.md",
     "2022-06-02-KNN-Mode_seeking.md",
+    "2022-04-16-Genetic_Algo.md",
+    "2022-06-01-Probabilistic_Matching.md",
+    "2022-05-10-Housing_Market.md",
+    "img/posts/output.gif.md",
+    "img/posts/explicit_my3.gif.md",
+    "2021-01-03-web-scraping.md",
     "explicit_my3.gif",
     "Pasted image 20220602205419.png.md"
   ]
