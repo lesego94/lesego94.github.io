@@ -41,6 +41,7 @@ lW
 lX
 line
 lesego
+lower
 post
 posts
 processes
@@ -122,6 +123,10 @@ penalizes
 points
 purpose
 packaged
+population
+paper
+proposing
+project
 title
 true
 transition
@@ -194,6 +199,9 @@ tbj
 thick
 transforming
 terms
+task
+them
+traditional
 kNN
 kD
 kL
@@ -290,6 +298,8 @@ MP
 MVv
 My
 Machine
+Methods
+Manual
 Seeking
 See
 Second
@@ -343,6 +353,7 @@ So
 Sibanye
 Stillwater
 Sonos
+Statistical
 clustering
 consists
 can
@@ -410,6 +421,9 @@ com
 constraint
 combined
 collected
+collection
+consider
+clusters
 Algorithm
 An
 Analysis
@@ -471,6 +485,7 @@ AS
 Amazon
 Assets
 Apple
+Austria
 subtitle
 seeking
 states
@@ -549,6 +564,12 @@ satisfy
 summation
 shape
 slowly
+similar
+similarity
+similarities
+space
+strategy
+shift
 Demonstration
 Direct
 DVHc
@@ -606,6 +627,7 @@ Di
 Dv
 DB
 Data
+Density
 of
 on
 or
@@ -646,6 +668,9 @@ output
 optimizatin
 obtained
 observed
+objects
+organization
+org
 new
 named
 numerical
@@ -698,6 +723,10 @@ nFVz
 nO
 nice
 no
+number
+nearest
+neighbor
+neighbour
 algorithm
 and
 an
@@ -776,6 +805,12 @@ asx
 aY
 au
 although
+accuracy
+ability
+approach
+altogether
+author
+address
 date
 decision
 discount
@@ -847,6 +882,13 @@ dK
 dv
 ds
 domanin
+dividing
+dissimilar
+dissimilarity
+dense
+differences
+directions
+document
 background
 basic
 be
@@ -914,6 +956,11 @@ bH
 black
 better
 becomes
+basically
+basis
+bibliography
+bib
+base
 img
 introduction
 into
@@ -1064,6 +1111,8 @@ uc
 ul
 ulWZIs
 unconstrained
+unsupervised
+url
 Reward
 Rewards
 Return
@@ -1228,6 +1277,9 @@ rA
 rX
 rv
 repository
+region
+replaced
+references
 with
 we
 where
@@ -1278,6 +1330,7 @@ wx
 ww
 width
 written
+www
 It
 In
 IA
@@ -1390,6 +1443,9 @@ mXGl
 mNe
 minimized
 manner
+merge
+mode
+much
 function
 factor
 follwing
@@ -1446,6 +1502,9 @@ final
 found
 following
 finance
+fundamental
+further
+faster
 example
 environment
 earlier
@@ -1597,6 +1656,7 @@ TF
 Tv
 Tq
 Tesla
+Team
 We
 When
 Which
@@ -1701,6 +1761,8 @@ ht
 hY
 here
 https
+having
+html
 gamma
 get
 genetic
@@ -1747,6 +1809,9 @@ gif
 github
 git
 general
+groups
+group
+good
 Example
 Ex
 Exploratory
@@ -1796,6 +1861,7 @@ Eqn
 Ezz
 Ed
 EKj
+Environment
 For
 Function
 FS
@@ -1836,6 +1902,7 @@ FI
 FpC
 FpB
 Fields
+Foundation
 Using
 Unfortunately
 UZ
@@ -1932,6 +1999,7 @@ Bt
 BUvi
 Bz
 Bx
+Based
 Let
 Lp
 Ls
@@ -1977,6 +2045,7 @@ LgR
 Lv
 Learning
 Limited
+Language
 Class
 Campaign
 Composition
@@ -2031,6 +2100,9 @@ CJ
 Cc
 Code
 Collect
+Clustering
+Computing
+Core
 Hence
 Ht
 HB
@@ -2230,6 +2302,7 @@ VS
 VCh
 Vt
 VM
+Vienna
 KKKCCCSSS
 Kti
 Kqp
@@ -2314,6 +2387,7 @@ yLK
 yu
 you
 yahoo
+year
 Zn
 ZU
 ZJ
