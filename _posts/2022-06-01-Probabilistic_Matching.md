@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Probabalistic Matching"
-subtitle: "Probablistic matching used to match medical data"
+subtitle: "Probablistic matching used to match medical data  (Work in progress)"
 date: 2020-01-26 23:45:13 -0400
 background: '/img/posts/30.jpeg'
 usemathjax: true
