@@ -11,7 +11,7 @@ usemathjax: true
 
 Portfolio optimisation is one of the most interesting fields of study in financial mathematics. Many scientists have studied a lot of analytical and numerical methods to build the best investment portfolio according to a defined set of assets.
 
-In this article, I’ll show a method to optimize a portfolio by using a numerical technique based on genetic algorithms. The power of genetic algorithms makes it possible to find the optimal portfolio even when the objective function isn’t smooth or differentiable.  This heuristic search algorithm follows the darwinian theory of natural selection to discover optimal solutions among viable candidates. This is done by passing down the characteristics of "fit" candidates down to the succeeding generations allowing the determination of better fitness-scored solutions.
+In this article, I’ll introduce a method to optimize a portfolio by using a numerical technique based on genetic algorithms. The power of genetic algorithms makes it possible to find the optimal portfolio even when the objective function isn’t smooth or differentiable.  This heuristic search algorithm follows the darwinian theory of natural selection to discover optimal solutions among viable candidates. This is done by passing down the characteristics of "fit" candidates down to the succeeding generations allowing the determination of better fitness-scored solutions.
 
 ### Portfolio Composition
 
@@ -37,7 +37,7 @@ $$
 $$
 
 ### Objective function
-A usefull objective function for portfolio optimization is the **Sharpe Ratio**, defined as:
+A useful objective function for portfolio optimization is the **Sharpe Ratio**, defined as:
 
 $$
 \text{Portfolio Sharpe} = \frac{E(P)}{\sqrt{Var(P)}}
@@ -49,7 +49,7 @@ The overall aim is to determine a portfolio whose returns are stable around the 
 
 ### Penalty Function method
 
-Using the penalty funciton method, the problem is simplifed by transforming it into an unconstrained optimizatin problem. To do this, we create a new function that penalizes all points in the function domanin that do no satisfy the constraints.
+Using the penalty function method, the problem is simplified by transforming it into an unconstrained optimisation problem. To do this, we create a new function that penalizes all points in the function domain that do no satisfy the constraints.
 
 The **inequality constraints** can be written in the following manner:
 
@@ -63,7 +63,7 @@ x_{i} \geq 0   \Rightarrow [\text{max}(0,-x_{i})]^2
 $$
 
 
-The summation constraint is an equality constraint which can easily be written as a penalty funciton.
+The summation constraint is an equality constraint which can easily be written as a penalty function.
 
 $$
 f(x) - d = 0 \Rightarrow [f(x) -d]^2
