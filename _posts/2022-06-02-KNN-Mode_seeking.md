@@ -13,7 +13,7 @@ bibliography: references.bib
 **Clustering** is the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them.
 
 
-![Cluster](/img/posts/cluster.jpeg)
+![Cluster](/img/posts/cluster.jpeg){:width="100%"}
 
 
 **Density-Based Methods** consider the clusters as the dense region having some similarities and differences from the lower dense region of the space. These methods have good accuracy and the ability to merge two clusters.
@@ -23,7 +23,8 @@ Myhre et al. (2017) introduces a new strategy to carry out mode based clustering
 The algorithm is based on the same principles as mean shift, namely following the local gradient ascent of each point and using the mode.
 
 ### KNN mode seeking algorithm
-Given a kNN-density estimate, where the density at a point $$\textbf{x}$$$ is the reciprocal of the squared distance to the k-th nearest neighbour $$\textbf{x}_k$$:
+Given a kNN-density estimate, where the density at a point $$\textbf{x}$$ is the reciprocal of the squared distance to the k-th nearest neighbour $$\textbf{x}_k$$:
+
 $$
 \hat{f}_{kNN} (\textbf{x}) = \frac{1}{|| \textbf{x}-\textbf{x}_k||^2}
 $$

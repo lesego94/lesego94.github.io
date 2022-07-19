@@ -76,6 +76,7 @@ lgt
 lK
 lSa
 ltU
+local
 post
 posts
 processes
@@ -190,6 +191,8 @@ pZT
 pTw
 pkf
 pUh
+principles
+point
 title
 true
 transition
@@ -878,6 +881,7 @@ sZj
 sOz
 smS
 scu
+squared
 Demonstration
 Direct
 DVHc
@@ -1133,6 +1137,7 @@ neI
 nBbU
 nz
 nod
+namely
 algorithm
 and
 an
@@ -1245,6 +1250,7 @@ aLM
 aoa
 aXFYR
 aiZ
+ascent
 date
 decision
 discount
@@ -1351,6 +1357,8 @@ dmd
 dj
 dTI
 dk
+density
+distance
 background
 basic
 be
@@ -2018,6 +2026,7 @@ rcU
 rIg
 rtd
 rSA
+reciprocal
 with
 we
 where
@@ -2498,6 +2507,7 @@ ekLÖ
 eEVW
 eRX
 ei
+estimate
 values
 value
 valuable
@@ -2926,6 +2936,7 @@ ge
 gte
 gYSo
 go
+gradient
 Example
 Ex
 Exploratory
