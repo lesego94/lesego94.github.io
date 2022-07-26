@@ -194,6 +194,8 @@ pUh
 principles
 point
 progress
+pneumoccoal
+pneumococcal
 title
 true
 transition
@@ -304,6 +306,7 @@ tfU
 tVol
 tL
 tVY
+treatment
 kNN
 kD
 kL
@@ -564,6 +567,7 @@ Sxu
 SKdAn
 Sgh
 Skf
+Statement
 clustering
 consists
 can
@@ -668,6 +672,9 @@ cR
 cqd
 cdmU
 cmm
+carried
+conjugate
+children
 Algorithm
 An
 Analysis
@@ -1042,6 +1049,7 @@ os
 oa
 oD
 oUK
+over
 new
 named
 numerical
@@ -1360,6 +1368,7 @@ dTI
 dk
 density
 distance
+disease
 background
 basic
 be
@@ -1564,6 +1573,8 @@ iS
 ixf
 iZx
 iYY
+investigate
+invasive
 jpg
 jpeg
 jQ
@@ -1927,6 +1938,8 @@ Pqu
 Pz
 PDH
 PWx
+Problem
+Pneumoccoal
 reward
 rewards
 receives
@@ -2028,6 +2041,8 @@ rIg
 rtd
 rSA
 reciprocal
+reduces
+rates
 with
 we
 where
@@ -2315,6 +2330,8 @@ mg
 mUI
 mwS
 mn
+morbidity
+mortality
 function
 factor
 follwing
@@ -2509,6 +2526,7 @@ eEVW
 eRX
 ei
 estimate
+efficacy
 values
 value
 valuable
@@ -2582,6 +2600,7 @@ vCj
 vUW
 vtv
 vjCs
+vaccines
 The
 Transition
 This
@@ -2862,6 +2881,9 @@ hOWX
 hVG
 hUmfS
 hSA
+hospitalised
+hospital
+hospitalisation
 gamma
 get
 genetic
@@ -3025,6 +3047,7 @@ EOy
 EkM
 ER
 EDV
+Early
 For
 Function
 FS
@@ -3266,6 +3289,7 @@ BZh
 BCs
 BZ
 BUd
+Baragwanath
 Let
 Lp
 Ls
@@ -3433,6 +3457,7 @@ CLe
 CjM
 CeI
 Cz
+Chris
 Hence
 Ht
 HB
@@ -3516,6 +3541,7 @@ HtcyA
 HVH
 HAp
 Hom
+Hani
 Other
 Optimization
 Optimisation

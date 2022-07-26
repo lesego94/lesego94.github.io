@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06-02-KNN-Mode_seeking.md",
+            "file": "2022-07-14-Pneumoccocal_vaccine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-02-KNN-Mode_seeking.md",
+                "file": "2022-07-14-Pneumoccocal_vaccine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "28dd52218b502370",
   "lastOpenFiles": [
+    "2022-06-01-Probabilistic_Matching.md",
+    "2022-07-14-Pneumoccocal_vaccine.md",
     "2021-01-03-web-scraping.md",
+    "2022-06-02-KNN-Mode_seeking.md",
     "2022-05-10-Housing_Market.md",
     "2022-04-16-Genetic_Algo.md",
-    "2022-06-02-KNN-Mode_seeking.md",
     "flow chart.md",
-    "2022-06-01-Probabilistic_Matching.md",
     "Pasted image 20220714121035.png",
     "img/posts/cluster.jpeg.md",
-    "explicit_my3.gif",
-    "references.bib.md"
+    "explicit_my3.gif"
   ]
 }
