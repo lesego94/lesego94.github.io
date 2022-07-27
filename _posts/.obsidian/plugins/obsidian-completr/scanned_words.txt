@@ -1940,6 +1940,7 @@ PDH
 PWx
 Problem
 Pneumoccoal
+Pneumococcal
 reward
 rewards
 receives
@@ -2601,6 +2602,7 @@ vUW
 vtv
 vjCs
 vaccines
+vaccine
 The
 Transition
 This
@@ -3048,6 +3050,7 @@ EkM
 ER
 EDV
 Early
+Effect
 For
 Function
 FS
@@ -3458,6 +3461,7 @@ CjM
 CeI
 Cz
 Chris
+Conjugate
 Hence
 Ht
 HB
@@ -3789,6 +3793,7 @@ VgS
 VV
 VyJ
 VZsl
+Vaccine
 KKKCCCSSS
 Kti
 Kqp
