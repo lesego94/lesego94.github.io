@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "5030885a4de3bc6a",
+    "id": "3c3432aeb15e0942",
     "type": "split",
     "children": [
       {
-        "id": "28dd52218b502370",
+        "id": "e8acf24309d15d6e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-06-01-Probabilistic_Matching.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "25e6d44fac5b3e5c",
+    "id": "1bcd0f3eb1525c93",
     "type": "split",
     "children": [
       {
-        "id": "6a99e423536263bc",
+        "id": "8853ff122eee0d24",
         "type": "tabs",
         "children": [
           {
-            "id": "84f35029d5b7fbe7",
+            "id": "600907769e343e02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "5a959edbe96885da",
+            "id": "2495fc85092eae50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "97d7a8077d05386b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -56,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "6da1526ae86b400b",
+    "id": "c180bf2491cf879f",
     "type": "split",
     "children": [
       {
-        "id": "1137d8f84ddf7c9f",
+        "id": "72a4ad1ee6ffe0e3",
         "type": "tabs",
         "children": [
           {
-            "id": "408972cd390ca2c0",
+            "id": "5454f49593548412",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-01-Probabilistic_Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +82,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "228689e48c3eac44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d573a13d027fa27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31d90daf9f52f8cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,17 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28dd52218b502370",
-  "lastOpenFiles": [
-    "2022-05-10-Housing_Market.md",
-    "2022-07-14-Pneumoccocal_vaccine.md",
-    "2022-06-02-KNN-Mode_seeking.md",
-    "2021-01-03-web-scraping.md",
-    "2022-04-16-Genetic_Algo.md",
-    "2022-06-01-Probabilistic_Matching.md",
-    "flow chart.md",
-    "Pasted image 20220714121035.png",
-    "img/posts/cluster.jpeg.md",
-    "explicit_my3.gif"
-  ]
+  "active": "e8acf24309d15d6e",
+  "lastOpenFiles": []
 }

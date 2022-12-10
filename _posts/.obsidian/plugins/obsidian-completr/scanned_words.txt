@@ -77,6 +77,8 @@ lK
 lSa
 ltU
 local
+level
+learing
 post
 posts
 processes
@@ -196,6 +198,12 @@ point
 progress
 pneumoccoal
 pneumococcal
+preparation
+prepared
+passing
+precision
+powered
+product
 title
 true
 transition
@@ -307,6 +315,8 @@ tVol
 tL
 tVY
 treatment
+theory
+tune
 kNN
 kD
 kL
@@ -568,6 +578,7 @@ SKdAn
 Sgh
 Skf
 Statement
+Sono
 clustering
 consists
 can
@@ -675,6 +686,9 @@ cmm
 carried
 conjugate
 children
+candidates
+characteristics
+composition
 Algorithm
 An
 Analysis
@@ -890,6 +904,15 @@ sOz
 smS
 scu
 squared
+supporting
+sourced
+search
+selection
+solutions
+succeeding
+scored
+simplified
+suit
 Demonstration
 Direct
 DVHc
@@ -1147,6 +1170,8 @@ nBbU
 nz
 nod
 namely
+needs
+natural
 algorithm
 and
 an
@@ -1260,6 +1285,11 @@ aoa
 aXFYR
 aiZ
 ascent
+appropriate
+among
+allowing
+additions
+achieve
 date
 decision
 discount
@@ -1369,6 +1399,13 @@ dk
 density
 distance
 disease
+darwinian
+discover
+done
+down
+determination
+domain
+deterministic
 background
 basic
 be
@@ -1575,6 +1612,9 @@ iZx
 iYY
 investigate
 invasive
+introduce
+improve
+insurance
 jpg
 jpeg
 jQ
@@ -1761,6 +1801,7 @@ unn
 uzAGM
 ugF
 ud
+useful
 Reward
 Rewards
 Return
@@ -1849,6 +1890,7 @@ Re
 Ryi
 Rqg
 Ruk
+Recommender
 Process
 Probability
 Probabalistic
@@ -2044,6 +2086,9 @@ rSA
 reciprocal
 reduces
 rates
+required
+results
+reccomemder
 with
 we
 where
@@ -2123,6 +2168,7 @@ wyx
 wL
 whU
 wo
+whereby
 It
 In
 IA
@@ -2226,6 +2272,7 @@ IDATb
 IjZ
 IjZp
 IEND
+Initial
 matrix
 maximizing
 may
@@ -2333,6 +2380,7 @@ mwS
 mn
 morbidity
 mortality
+merely
 function
 factor
 follwing
@@ -2423,6 +2471,9 @@ fO
 fDMF
 fG
 fa
+fit
+fitness
+fine
 example
 environment
 earlier
@@ -2528,6 +2579,8 @@ eRX
 ei
 estimate
 efficacy
+employing
+engine
 values
 value
 valuable
@@ -2603,6 +2656,7 @@ vtv
 vjCs
 vaccines
 vaccine
+viable
 The
 Transition
 This
@@ -2886,6 +2940,9 @@ hSA
 hospitalised
 hospital
 hospitalisation
+heuristic
+high
+hand
 gamma
 get
 genetic
@@ -2963,6 +3020,8 @@ gte
 gYSo
 go
 gradient
+generations
+generated
 Example
 Ex
 Exploratory
@@ -3051,6 +3110,8 @@ ER
 EDV
 Early
 Effect
+Efficacy
+Engine
 For
 Function
 FS
@@ -4476,6 +4537,7 @@ NnV
 Nlf
 Na
 NM
+Needs
 Qc
 Ql
 QO

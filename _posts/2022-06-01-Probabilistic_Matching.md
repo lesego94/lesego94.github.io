@@ -12,11 +12,9 @@ usemathjax: true
 Probabilistic Matching is the process of comparing one or more identifiers to determine how accurately they might match between two different signals. Probabilistic Matching searches for signals and collects these attributes or identifiers to calculate the probability of a match between those signals. An example of a Probabilistic Match is two names where one or both are misspelled (ex. Steven vs Stephen). The process of creating a Probabilistic Match will calculate how many mistyped letters alter the probability of these two names belonging to the same person. Other examples include streets (ex. Street vs St.) and the sound of a name (Ex. Susan vs Suzzane).
 
 
-
 In a study is to be carried to investigate the efficacy of Pneumoccoal conjugate vaccines on invasive pneumoccoal disease. The study study will be look at children hospitalised at Chris Hani Baragwanath hospital over a 15 year period.
 
 Initial data preparation is required whereby the supporting medical data needs to be sourced and appropriate prepared.
 
 
-
-method
+![[Pasted image 20220810141231.png]]
