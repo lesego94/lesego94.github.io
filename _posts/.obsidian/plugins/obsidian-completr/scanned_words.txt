@@ -85,6 +85,7 @@ likely
 learn
 legal
 labeled
+lrv
 post
 posts
 processes
@@ -431,6 +432,7 @@ keo
 kYg
 kMr
 key
+kgosi
 Mode
 Markov
 MRP
@@ -973,6 +975,7 @@ structure
 specified
 step
 scaling
+shinyapps
 Demonstration
 Direct
 DVHc
