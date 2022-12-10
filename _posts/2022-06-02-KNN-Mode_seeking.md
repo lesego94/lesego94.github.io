@@ -29,7 +29,7 @@ $$
 \hat{f}_{kNN} (\textbf{x}) = \frac{1}{|| \textbf{x}-\textbf{x}_k||^2}
 $$
 
-
+[Interactive Plot Demonstration](https://lrv2nt-kgosi.shinyapps.io/KNN_Mode_Seeking/)
 
 
 ##### References
