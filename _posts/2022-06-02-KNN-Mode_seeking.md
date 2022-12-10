@@ -39,6 +39,8 @@ $$
 $$
 
 [Interactive Plot Demonstration](https://lrv2nt-kgosi.shinyapps.io/KNN_Mode_Seeking/)
+<iframe src="https://lrv2nt-kgosi.shinyapps.io/KNN_Mode_Seeking/"  width= "800", height="500" ></iframe>
+https://lrv2nt-kgosi.shinyapps.io/KNN_Mode_Seeking/
 
 
 ##### References
