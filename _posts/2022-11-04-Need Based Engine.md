@@ -21,6 +21,8 @@ In conclusion, an AI-powered recommendation engine for insurance products is a v
 
 ### K-Means clustering
 
+{% include clustering3d.html %}
+
 K-means clustering is a machine learning algorithm that is commonly used for clustering and segmentation tasks. It is a type of unsupervised learning algorithm, meaning that it does not require labeled data to learn from. Instead, it uses the intrinsic structure of the data to group similar items together into clusters.
 
 In the context of recommender engines, K-means clustering can be used to group customers into similar clusters based on their characteristics and preferences. This can be useful for identifying groups of customers with similar interests and needs, which can then be used to provide more personalised and accurate product recommendations.
@@ -29,6 +31,6 @@ The basic idea behind K-means clustering is to partition the data into a specifi
 
 To use K-means clustering for recommender engines, the first step is to choose the features or characteristics that will be used to define the clusters. For example, these could include a customer's age, income, location, and purchasing history. The next step is to pre-process the data and transform these features into a format that can be used by the K-means algorithm. This might involve normalising the data, scaling the features, and applying any necessary transformations.
 
-{% include clustering3d.html %}
+
 
 
