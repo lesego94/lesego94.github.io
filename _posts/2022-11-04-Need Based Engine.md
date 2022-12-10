@@ -29,4 +29,6 @@ The basic idea behind K-means clustering is to partition the data into a specifi
 
 To use K-means clustering for recommender engines, the first step is to choose the features or characteristics that will be used to define the clusters. For example, these could include a customer's age, income, location, and purchasing history. The next step is to pre-process the data and transform these features into a format that can be used by the K-means algorithm. This might involve normalising the data, scaling the features, and applying any necessary transformations.
 
+{% include figure.html %}
+
 
