@@ -1,17 +1,10 @@
 ---
-
 layout: post
-
 title: "Zero-Shot Email Classification"
-
 subtitle: "Implementaion of Zero-Shot methods for Email Classification"
-
 date: 2020-01-26 23:45:13 -0400
-
 background: '/img/posts/10.jpg'
-
 usemathjax: true
-
 ---
 
 
