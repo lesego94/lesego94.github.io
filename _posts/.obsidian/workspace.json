@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-06-02-KNN-Mode_seeking.md",
+                "file": "2022-11-04-Need Based Engine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7022193bdcaccd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-01-Zero-Shot Email Classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-02-KNN-Mode_seeking.md",
+                "file": "2022-11-01-Zero-Shot Email Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,14 +108,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d38b004028f62b7",
+  "active": "7022193bdcaccd86",
   "lastOpenFiles": [
+    "2022-11-04-Need Based Engine.md",
     "2022-06-02-KNN-Mode_seeking.md",
     "2022-06-01-Probabilistic_Matching.md",
     "2022-05-10-Housing_Market.md",
     "2022-04-16-Genetic_Algo.md",
     "2021-01-03-web-scraping.md",
-    "2022-11-04-Need Based Engine.md",
     "2022-07-14-Pneumoccocal_vaccine.md",
     "flow chart.md",
     "Pasted image 20220714121035.png",

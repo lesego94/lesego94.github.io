@@ -226,6 +226,8 @@ personalised
 partition
 purchasing
 pre
+parametric
+peak
 title
 true
 transition
@@ -349,6 +351,9 @@ type
 together
 transform
 transformations
+techniques
+typically
+types
 kNN
 kD
 kL
@@ -526,6 +531,7 @@ MGhnu
 MIXc
 Mr
 Means
+Mean
 Seeking
 See
 Second
@@ -740,6 +746,9 @@ context
 centroids
 choose
 could
+centers
+category
+classification
 Algorithm
 An
 Analysis
@@ -976,6 +985,9 @@ specified
 step
 scaling
 shinyapps
+shifting
+specific
+src
 Demonstration
 Direct
 DVHc
@@ -1139,6 +1151,8 @@ over
 oversold
 obligations
 optimizing
+outliers
+own
 new
 named
 numerical
@@ -1370,6 +1384,10 @@ automatically
 assignments
 average
 applying
+assumptions
+anomalies
+applications
+anomaly
 date
 decision
 discount
@@ -1489,6 +1507,11 @@ deterministic
 does
 defining
 distances
+distinct
+differ
+direction
+distribution
+detection
 background
 basic
 be
@@ -1594,6 +1617,7 @@ business
 budget
 benefits
 behind
+broader
 img
 introduction
 into
@@ -1718,6 +1742,8 @@ interests
 idea
 iteratively
 involve
+including
+iframe
 jpg
 jpeg
 jQ
@@ -1906,6 +1932,8 @@ ugF
 ud
 useful
 uses
+underlying
+unique
 Reward
 Rewards
 Return
@@ -2211,6 +2239,8 @@ recommending
 reputation
 require
 recommender
+reaches
+respectively
 with
 we
 where
@@ -2295,6 +2325,7 @@ way
 wide
 well
 within
+while
 It
 In
 IA
@@ -2516,6 +2547,10 @@ meeting
 meaning
 metric
 minimize
+maximum
+modes
+maxima
+move
 function
 factor
 follwing
@@ -2615,6 +2650,7 @@ fines
 first
 features
 format
+finding
 example
 environment
 earlier
@@ -2727,6 +2763,9 @@ existing
 ensure
 ethical
 engines
+exploration
+estimation
+estimating
 values
 value
 valuable
@@ -2900,6 +2939,7 @@ TAU
 TkL
 TVz
 TuJQ
+There
 We
 When
 Which
@@ -3091,6 +3131,8 @@ high
 hand
 help
 history
+hierarchical
+height
 gamma
 get
 genetic
@@ -3170,6 +3212,7 @@ go
 gradient
 generations
 generated
+grouping
 Example
 Ex
 Exploratory
@@ -3757,6 +3800,7 @@ HVH
 HAp
 Hom
 Hani
+However
 Other
 Optimization
 Optimisation
