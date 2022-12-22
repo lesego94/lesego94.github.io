@@ -1,16 +1,23 @@
+---
 
+layout: post
 
-introduce the problem.
+title: "Zero-Shot Email Classification"
 
-Discuss old methods, 
-introduce the proposed method and its benefits,
-explain how it was implemented.
+subtitle: "Implementaion of Zero-Shot methods for Email Classification"
 
-Introduction:
+date: 2020-01-26 23:45:13 -0400
+
+background: '/img/posts/10.jpg'
+
+usemathjax: true
+
+---
+
 
 In this project, we developed a machine learning email classifier to classify customer emails as either complaints or queries. We used zero shot learning on a large pre-trained model to carry out the classification.
 
-Background:
+### Background:
 
 Classifying customer emails can be a time-consuming task for customer service teams, especially when dealing with large volumes of emails. Automating this process through the use of machine learning can help save time and improve efficiency.
 
