@@ -36,6 +36,9 @@ Hugging Face is a popular open-source library for natural language processing th
 2. Choose a pre-trained model that you want to use for zero-shot classification. The model should have been trained on a task that is related to your classification problem and should have a good representation of the language and concepts relevant to your problem.
 3. Load the pre-trained model into your Python code using Hugging Face's API.
 4. Use the pre-trained model to classify the input data by passing it through the model and obtaining the predicted class probabilities. The implementation in python will be as follows:
+
+
+
    
 ````python
 from transformers import pipeline
