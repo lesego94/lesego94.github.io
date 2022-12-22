@@ -52,7 +52,7 @@ def run_classifier(text):
 
 ````
 
-1. further fine tuning may be necessary to help the model to better adapt the specific problem and potentially improve its performance.
+5. further fine tuning may be necessary to help the model to better adapt the specific problem and potentially improve its performance.
 
 
 Results:
